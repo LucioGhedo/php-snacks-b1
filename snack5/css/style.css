@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+}
+div {
+    text-align: center;
+    margin: 30px auto;
+    width: 550px;
+    font-size: 40px;
+    
+}
+.green {
+    border: solid green 5px;
+}
+.grey {
+    border: solid grey 5px;
+}
